@@ -1,6 +1,8 @@
 # EWAT
 My modules written for [https://github.com/toxic-ig](toxic-ig)'s [https://github.com/toxic-ig/ewat](EWAT project).
 ## Modules
+Extended Docs are in Wiki.
+
 The only module available right now is Spoof.
 ### Spoof
 Usage:
